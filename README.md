@@ -28,7 +28,9 @@ After this module, we should be able to do the following:
 6.	Test the algorithm.
 
 # Tools:
+
 ● Technologies: Python, Jupyter Notebook.
+
 ● Libraries: Pandas, NumPy, matplotlib, Seaborn, scikit-learn, Keras, and TensorFlow.
 
 
